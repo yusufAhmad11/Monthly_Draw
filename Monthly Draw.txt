@@ -1,16 +1,34 @@
 1. NAHID
-2. ZIHAN+
-3. NUHEL+
+2. ZIHAN
+3. NUHEL
 4. BAHAR
-5. NAYEEM+
+5. NAYEEM
 6. KADER
 7. ANWAR
-8. NOMAN+
-9. SHAHINUR+
-10. ARIF+
+8. NOMAN
+9. SHAHINUR
+10. ARIF
 11. RIFAT
-12. SHOHEL+
-13. JEHED+
+12. SHOHEL
+13. JEHED
 14. RAHAT
-15. SARWAR+
+15. SARWAR
 16. RAFIQ
+
+
+///////////////////////////////
+
+{History of monthly draw.}
+
+January 2026:  RAFIQ
+February 2026: BAHAR
+March 2026:    ANWAR
+April 2026:    NAHID
+May 2026:      NOMAN 
+June 2026:     SHAHINUR
+July 2026:
+August 2026:
+September 2026:
+October 2026:
+November 2026:
+December 2026:
