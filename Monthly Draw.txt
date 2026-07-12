@@ -1,19 +1,20 @@
 1. NAHID
-2. ZIHAN#
+2. ZIHAN
 3. NUHEL
 4. BAHAR
-5. NAYEEM#
+5. NAYEEM
 6. KADER
 7. ANWAR
-8. NOMAN#
+8. NOMAN
 9. SHAHINUR
-10. ARIF#
+10. ARIF
 11. RIFAT
-12. SHOHEL#
+12. SHOHEL
 13. JEHED
 14. RAHAT
 15. SARWAR
 16. RAFIQ
+
 
 
 ///////////////////////////////
@@ -26,7 +27,7 @@
 4.April 2026:     NAHID
 5.May 2026:       NOMAN 
 6.June 2026:      SHAHINUR
-7.July 2026:      
+7.July 2026:      ZIHAN
 8.August 2026:    
 9.September 2026: 
 10.October 2026:  
